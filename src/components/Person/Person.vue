@@ -27,7 +27,7 @@
             src: "../../../src/assets/mp4/1.mp4"
           }],
           add:'添加内容',
-          add2: 'branch分支 新增内容',
+          add2: 'branch分支 新增内容fea1',
           fea1:'fea1分支增加内容'
         }
       }
