@@ -26,7 +26,6 @@
             type: "video/mp4",
             src: "../../../src/assets/mp4/1.mp4"
           }],
-          poster: "/src/assets/images/0.jpg",
         }
       }
     },
