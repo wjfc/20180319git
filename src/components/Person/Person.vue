@@ -26,6 +26,7 @@
             type: "video/mp4",
             src: "../../../src/assets/mp4/1.mp4"
           }],
+          add:'添加内容'
         }
       }
     },
