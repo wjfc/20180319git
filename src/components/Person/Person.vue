@@ -26,7 +26,8 @@
             type: "video/mp4",
             src: "../../../src/assets/mp4/1.mp4"
           }],
-          add:'添加内容'
+          add:'添加内容',
+          add2: 'branch分支 新增内容'
         }
       }
     },
